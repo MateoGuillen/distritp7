@@ -1,0 +1,34 @@
+[2021-10-30 23:50:59 656] | [INFO   ] | T#0 |--- EXTRAER P1 (150)--- | 
+[2021-10-30 23:50:59 659] | [INFO   ] | T#0 | Recuperando persona | 
+[2021-10-30 23:50:59 662] | [INFO   ] | T#0 |  Persona: 1 Juan Perez 500.0 ] | 
+[2021-10-30 23:50:59 657] | [INFO   ] | T#2 |--- EXTRAER P1 (100) Y DEPOSITAR P2 (100)--- | 
+[2021-10-30 23:50:59 656] | [INFO   ] | T#1 |--- EXTRAER P1 (100) Y DEPOSITAR P2 (100)--- | 
+[2021-10-30 23:50:59 666] | [INFO   ] | T#4 |--- EXTRAER P1 (100) Y DEPOSITAR P2 (100)--- | 
+[2021-10-30 23:50:59 669] | [INFO   ] | T#0 | Extraer 150 | 
+[2021-10-30 23:50:59 673] | [INFO   ] | T#0 | Saldo actual: 350 | 
+[2021-10-30 23:50:59 666] | [INFO   ] | T#2 | Recuperando persona 1 | 
+[2021-10-30 23:50:59 677] | [INFO   ] | T#4 | Recuperando persona 1 | 
+[2021-10-30 23:50:59 680] | [INFO   ] | T#4 | Persona recuperada: Persona: 1 Juan Perez 500.0 ] | 
+[2021-10-30 23:50:59 681] | [INFO   ] | T#4 | Extraer 100 | 
+[2021-10-30 23:50:59 686] | [INFO   ] | T#4 | Recuperando persona 2 | 
+[2021-10-30 23:50:59 664] | [INFO   ] | T#3 |--- EXTRAER P1 (150)--- | 
+[2021-10-30 23:50:59 690] | [INFO   ] | T#3 | Recuperando persona | 
+[2021-10-30 23:50:59 689] | [INFO   ] | T#4 |  Persona: 2 Alma Almada 0.0 ] | 
+[2021-10-30 23:50:59 679] | [INFO   ] | T#2 | Persona recuperada: Persona: 1 Juan Perez 500.0 ] | 
+[2021-10-30 23:50:59 667] | [INFO   ] | T#1 | Recuperando persona 1 | 
+[2021-10-30 23:50:59 699] | [INFO   ] | T#1 | Persona recuperada: Persona: 1 Juan Perez 500.0 ] | 
+[2021-10-30 23:50:59 700] | [INFO   ] | T#1 | Extraer 100 | 
+[2021-10-30 23:50:59 703] | [INFO   ] | T#1 | Recuperando persona 2 | 
+[2021-10-30 23:50:59 705] | [INFO   ] | T#1 |  Persona: 2 Alma Almada 0.0 ] | 
+[2021-10-30 23:50:59 706] | [INFO   ] | T#2 | Extraer 100 | 
+[2021-10-30 23:50:59 710] | [INFO   ] | T#2 | Recuperando persona 2 | 
+[2021-10-30 23:50:59 712] | [INFO   ] | T#1 | Depositar 100 | 
+[2021-10-30 23:50:59 713] | [INFO   ] | T#1 | Sleeping 5seg | 
+[2021-10-30 23:50:59 696] | [INFO   ] | T#4 | Depositar 100 | 
+[2021-10-30 23:50:59 694] | [INFO   ] | T#3 |  Persona: 1 Juan Perez 500.0 ] | 
+[2021-10-30 23:50:59 718] | [INFO   ] | T#3 | Extraer 150 | 
+[2021-10-30 23:50:59 717] | [INFO   ] | T#4 | Sleeping 5seg | 
+[2021-10-30 23:50:59 720] | [INFO   ] | T#3 | Saldo actual: 350 | 
+[2021-10-30 23:50:59 723] | [INFO   ] | T#2 |  Persona: 2 Alma Almada 0.0 ] | 
+[2021-10-30 23:50:59 726] | [INFO   ] | T#2 | Depositar 100 | 
+[2021-10-30 23:50:59 728] | [INFO   ] | T#2 | Sleeping 5seg | 

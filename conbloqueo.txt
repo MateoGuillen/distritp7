@@ -1,0 +1,33 @@
+[2021-10-30 23:47:23 667] | [INFO   ] | T#1 |--- EXTRAER P1 (100) Y DEPOSITAR P2 (100)--- | 
+[2021-10-30 23:47:23 668] | [INFO   ] | T#2 |--- EXTRAER P1 (150)--- | 
+[2021-10-30 23:47:23 667] | [INFO   ] | T#0 |--- EXTRAER P1 (100) Y DEPOSITAR P2 (100)--- | 
+[2021-10-30 23:47:23 670] | [INFO   ] | T#1 | Recuperando persona 1 | 
+[2021-10-30 23:47:23 674] | [INFO   ] | T#4 |--- EXTRAER P1 (100) Y DEPOSITAR P2 (100)--- | 
+[2021-10-30 23:47:23 681] | [INFO   ] | T#4 | Recuperando persona 1 | 
+[2021-10-30 23:47:23 671] | [INFO   ] | T#3 |--- EXTRAER P1 (150)--- | 
+[2021-10-30 23:47:23 685] | [INFO   ] | T#3 | Recuperando persona | 
+[2021-10-30 23:47:23 673] | [INFO   ] | T#0 | Recuperando persona 1 | 
+[2021-10-30 23:47:23 692] | [INFO   ] | T#1 | Persona recuperada: Persona: 1 Juan Perez 500.0 ] | 
+[2021-10-30 23:47:23 701] | [INFO   ] | T#1 | Extraer 100 | 
+[2021-10-30 23:47:23 705] | [INFO   ] | T#1 | Recuperando persona 2 | 
+[2021-10-30 23:47:23 692] | [INFO   ] | T#2 | Recuperando persona | 
+[2021-10-30 23:47:23 722] | [INFO   ] | T#1 |  Persona: 2 Alma Almada 0.0 ] | 
+[2021-10-30 23:47:23 724] | [INFO   ] | T#1 | Depositar 100 | 
+[2021-10-30 23:47:23 726] | [INFO   ] | T#1 | Sleeping 5seg | 
+[2021-10-30 23:47:28 750] | [INFO   ] | T#4 | Persona recuperada: Persona: 1 Juan Perez 400.0 ] | 
+[2021-10-30 23:47:28 751] | [INFO   ] | T#4 | Extraer 100 | 
+[2021-10-30 23:47:28 753] | [INFO   ] | T#4 | Recuperando persona 2 | 
+[2021-10-30 23:47:28 759] | [INFO   ] | T#4 |  Persona: 2 Alma Almada 100.0 ] | 
+[2021-10-30 23:47:28 760] | [INFO   ] | T#4 | Depositar 100 | 
+[2021-10-30 23:47:28 762] | [INFO   ] | T#4 | Sleeping 5seg | 
+[2021-10-30 23:47:33 783] | [INFO   ] | T#2 |  Persona: 1 Juan Perez 300.0 ] | 
+[2021-10-30 23:47:33 785] | [INFO   ] | T#2 | Extraer 150 | 
+[2021-10-30 23:47:33 787] | [INFO   ] | T#2 | Saldo actual: 150 | 
+[2021-10-30 23:47:33 800] | [INFO   ] | T#0 | Persona recuperada: Persona: 1 Juan Perez 150.0 ] | 
+[2021-10-30 23:47:33 802] | [INFO   ] | T#0 | Extraer 100 | 
+[2021-10-30 23:47:33 804] | [INFO   ] | T#0 | Recuperando persona 2 | 
+[2021-10-30 23:47:33 811] | [INFO   ] | T#0 |  Persona: 2 Alma Almada 200.0 ] | 
+[2021-10-30 23:47:33 812] | [INFO   ] | T#0 | Depositar 100 | 
+[2021-10-30 23:47:33 814] | [INFO   ] | T#0 | Sleeping 5seg | 
+[2021-10-30 23:47:38 842] | [INFO   ] | T#3 |  Persona: 1 Juan Perez 50.0 ] | 
+[2021-10-30 23:47:38 844] | [INFO   ] | T#3 | Extraer 150 | 
